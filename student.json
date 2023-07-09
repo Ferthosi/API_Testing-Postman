@@ -1,0 +1,148 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Ferthosi",
+      "phone": "1234567890",
+      "country": "United States",
+      "courses": [
+        "Mathematics",
+        "Science",
+        "History"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Oishi",
+      "phone": "9876543210",
+      "country": "Canada",
+      "courses": [
+        "English",
+        "Physics",
+        "Geography"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Saiful",
+      "phone": "5555555555",
+      "country": "Australia",
+      "courses": [
+        "Chemistry",
+        "Biology",
+        "Art"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Musab",
+      "phone": "9999999999",
+      "country": "Bangladesh",
+      "courses": [
+        "Computer Science",
+        "Music",
+        "Physical Education"
+      ]
+    },
+    {
+      "name": " Scott",
+      "phone": "01701004559",
+      "country": "Maleyshia",
+      "courses": [
+        "Software",
+        "History"
+      ],
+      "id": 7
+    },
+    {
+      "name": " Scott",
+      "phone": "01701004559",
+      "country": "Maleyshia",
+      "courses": [
+        "Software",
+        "History"
+      ],
+      "id": 8
+    },
+    {
+      "name": " Scott",
+      "phone": "01701004559",
+      "country": "Maleyshia",
+      "courses": [
+        "Software",
+        "History"
+      ],
+      "id": 9
+    },
+    {
+      "name": " Scott",
+      "phone": "01701004559",
+      "country": "Maleyshia",
+      "courses": [
+        "Software",
+        "History"
+      ],
+      "id": 10
+    },
+    {
+      "name": " Scott",
+      "phone": "01701004559",
+      "country": "Maleyshia",
+      "courses": [
+        "Software",
+        "History"
+      ],
+      "id": 11
+    },
+    {
+      "name": " Scott",
+      "phone": "01701004559",
+      "country": "Maleyshia",
+      "courses": [
+        "Software",
+        "History"
+      ],
+      "id": 12
+    },
+    {
+      "name": " Oshim",
+      "phone": "01701004559",
+      "country": "Maleyshia",
+      "courses": [
+        "python",
+        "History"
+      ],
+      "id": 13
+    },
+    {
+      "name": " Oshim",
+      "phone": "01701004559",
+      "country": "Maleyshia",
+      "courses": [
+        "python",
+        "History"
+      ],
+      "id": 14
+    },
+    {
+      "name": " Oshim",
+      "phone": "01701004559",
+      "country": "Maleyshia",
+      "courses": [
+        "python",
+        "History"
+      ],
+      "id": 15
+    },
+    {
+      "name": " Oshim",
+      "phone": "01701004559",
+      "country": "Maleyshia",
+      "courses": [
+        "python",
+        "History"
+      ],
+      "id": 16
+    }
+  ]
+}
